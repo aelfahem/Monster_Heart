@@ -1,0 +1,13 @@
+### OS FILES ###
+.DS_Store
+
+### IDEA FILES ###
+monsterheart/.idea
+
+### MVN FILES ###
+monsterheart/.mvn
+monsterheart/mvnw
+monsterheart/mvnw.cmd
+
+### TARGET FILES ###
+monsterheart/target
